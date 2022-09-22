@@ -1,4 +1,4 @@
-from cgitb import reset
+
 from tkinter import *
 from classes import *
 import numpy as np
