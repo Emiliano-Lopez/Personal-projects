@@ -4,6 +4,19 @@ Junk File Organizer is a program that helps organize cluttered directories on a 
 
 This has special cases where 'school' and 'trash' become keywords reserved for their respective directories.
 
+directories
+- audio
+- documents
+- images
+- others 
+- python
+- rar
+- school
+- trash
+- videos
+
+
+
 
 # Before
 
@@ -11,4 +24,4 @@ This has special cases where 'school' and 'trash' become keywords reserved for t
 
 # After
 
-![Preview2](https://user-images.githubusercontent.com/113952514/223442747-98f407cf-6681-4ce8-abfa-db8ca3f33c1d.jpg)
+![Preview2](https://user-images.githubusercontent.com/113952514/223444848-93b84594-b411-471b-8f50-fdced90b74c9.jpg)
